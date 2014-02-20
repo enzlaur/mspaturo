@@ -61,7 +61,7 @@
 #center
 {	
 	transition: font-size 2s;	
-	font-family: sbev;
+	font-family: sbev, bebas;
 	font-size: 300px;
 	width: 100%;
 }
